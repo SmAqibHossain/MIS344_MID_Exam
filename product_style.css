@@ -51,27 +51,6 @@ li a:hover {
 .button {
   text-align: center;
 }
-footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  background-color: #0d274d;
-  text-decoration: none;
-  display: grid;
-  grid-template-columns: 1fr;
-  text-decoration: none;
-}
-footer li {
-  color: white;
-  text-decoration: none;
-  text-align: center;
-}
-footer li a {
-  text-decoration: none;
-  color: white;
-}
-footer ul {
-  list-style: none;
-}
 
 .head {
   text-align: center;
