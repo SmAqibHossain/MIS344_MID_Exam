@@ -1,0 +1,49 @@
+/* Name- SM Aqib Hossain */
+/* Id-2120009 */
+
+body {
+  font-family: Madimi One, Montserrat, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  margin: 0;
+  background-color: rgb(255, 252, 249);
+}
+
+.UL {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0d274d;
+  display: flex;
+  justify-content: center;
+}
+
+.LI {
+  float: left;
+}
+
+.LI a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #03193b;
+}
+
+section {
+  display: grid;
+  align-items: center;
+  height: 100vh;
+
+  grid-template-columns: 2fr 1fr;
+
+  /* padding-left: 70px;
+  padding-right: 70px; */
+  padding-left: 250px;
+  padding-right: 250px;
+}
